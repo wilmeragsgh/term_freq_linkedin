@@ -4,8 +4,6 @@ Ready-to-adapt code for finding what are the most frequent positions names that 
 
 ## Get started
 
-Go to 
-
 <div> <a href="https://colab.research.google.com/github/wilmeragsgh/term_freq_linkedin/blob/master/Term_frequency_of_followers'_positions_over_time_.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></div>
 
 ## How to use
